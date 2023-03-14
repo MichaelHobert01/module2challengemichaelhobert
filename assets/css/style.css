@@ -1,0 +1,76 @@
+
+@media screen (min-width: 1024px) {
+    body {
+      font-size: 14px;
+      color: green;
+    }
+  }
+/* I could not for the life of me figure out the media screen queries. */
+h1 {
+    color:mediumspringgreen; 
+    text-align: center;
+}
+
+h2, p, h3 {
+    color: honeydew;
+}
+body {
+    background-color:black;
+}
+
+nav li {
+    color:mediumspringgreen;
+    display: flex;
+    justify-content: space-around;
+}
+
+nav ul {
+    border-top: 1px solid mediumspringgreen;
+    text-align: center;
+    border-bottom: 1px solid mediumspringgreen;
+    display: flex;
+    justify-content: space-around;
+}
+.jpegmafia:hover {
+    transform: scale(1.5);
+}
+
+.bugati{
+    width: 100px; 
+    height: auto; 
+}
+
+#about-me {
+    color: mediumspringgreen;
+    text-align: center; 
+}
+.footer {
+    text-align: center;
+    padding: 2%;
+    color: greenyellow;
+}
+
+
+.footer.p {
+    color: mediumspringgreen;
+}
+
+.bigpicpic {
+width: 400px;
+height: auto; 
+}
+
+
+
+.jpegmafia {
+    width: 200px; 
+    height: auto; 
+}
+
+.bigpicpic:hover {
+    transform: scale(1.5);
+}
+
+.pic22:hover {
+    transform: scale(1.5);
+}
